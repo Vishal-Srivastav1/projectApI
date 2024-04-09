@@ -1,0 +1,59 @@
+{
+    "news": [
+      { "id": "1",
+      "heading": "FEATURED VOICES", 
+       "title": "I'm Vishal Srivastav", 
+      "description": "I'm Full Stack Developer Experties In Front-end And Back-end Development" 
+    },
+      { "id": "2",
+       "title": "Ismat Are", 
+       "description": "How if Feels to Be a Muslim Woman Sold by India's Right Wing" 
+    },
+      { "id": "3",
+       "title": "Robert j Davis ", 
+       "description": "Why You Should't Execrise to Lose Weight" 
+    },
+      { "id": "4", 
+      "title": "Yohanca Delgado",
+      "description": "The Life-Changing Practice That will Help You Fell More Gratitude" 
+    },
+      { "id": "5", 
+      "title": "W. Kamau Bell",
+      "description": "There s So Much More To Say About Bill Cosby" 
+    },
+      { "id": "6", 
+      "title": "Antol Lieven",
+       "description": "Russia Has Been Warning the WestAbout Ukraine for Decades" 
+    }
+    ],
+
+    "latestnews": [
+      { "id": "1", 
+      "heading": "LATEST STORIES",
+      "title": "Amy Schneider's Jeopardy!Streak Ends",
+       "description": "JAN 26, 2022 11:44 PM EST " 
+       
+    },
+      { "id": "2",
+       "title": "Writing With Fire'Shines a Light on All-Women News Outlet", 
+       "description": "AUG 26, 2022 11:00 PM EST " 
+       
+    },
+      { "id": "3",
+       "title": "Moderna Booster May Wane After 6 Months", 
+       "description": "JULY 26, 2022 11:44 AM EST " 
+       
+    },
+      { "id": "4", 
+      "title": "Pressure Mounts for Biden to Nominate a Black Woman to the Supreme...",
+      "description": "FEB 26, 2022 1:44 PM EST " 
+       
+    },
+      { "id": "5", 
+      "title": "The James Webb Space Telescope Is in Position--",
+      "description": "March 26, 2022 11:44 AM EST " 
+       
+    }
+    ]
+    
+}

@@ -1,0 +1,35 @@
+.width{
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    margin: 5px;
+    
+}
+body{
+    overflow-x: hidden;
+    width: 100%;
+   
+}
+#tbody{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.STORIES{
+    background-color: yellow;
+     width: 220px; 
+     margin-left: -260px;
+     
+}
+.letest{
+    margin-top: -47px;
+    
+   
+}
+span{
+    font-size: 13px;
+}
+.FEATURED{
+    margin-right: 40px;
+    
+}

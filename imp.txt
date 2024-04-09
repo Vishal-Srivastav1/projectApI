@@ -1,0 +1,7 @@
+run the project using  -> npm start 
+then you will get API Links.
+
+But you have to manualy run index.html files 
+
+Thank you..
+
